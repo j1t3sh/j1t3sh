@@ -25,6 +25,10 @@
  <a href="https://instagram.com/jitesh.haxx">
     <img align="left" alt="j1t3sh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>        
   </a>
+ <a href="https://dev.to/j1t3sh">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jitesh Kumar's DEV Profile" height="30" width="30">
+</a>
+        
   
 <br />
 <br />
