@@ -13,8 +13,8 @@
 
 ### 📫 Connect with me:
 
-<a href="https://jitesh.tech/">
-    <img align="left" alt="jitesh.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://j1t3sh.github.io/">
+    <img align="left" alt="j1t3sh.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   </a>
 <a href="https://twitter.com/j1t35h">
     <img align="left" alt="j1t35h | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />     
