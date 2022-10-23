@@ -1,6 +1,6 @@
 ### Hi there, I'm Jitesh 👋
 
-[![Website](https://img.shields.io/website?label=jitesh.tech&style=for-the-badge&url=https%3A%2F%2Fjitesh.tech)](https://jitesh.tech)
+[![Website](https://img.shields.io/website?label=j1t3sh.github.io&style=for-the-badge&url=https%3A%2F%2Fj1t3sh.github.io)](https://j1t3sh.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/j1t35h?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fj1t3sh&screen_name=j1t35h)
 
 ## I'm a Hacker,Developer and a Bug Bounty Hunter!
