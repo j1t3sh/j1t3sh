@@ -13,7 +13,7 @@
 
 ### 📫 Connect with me:
 
-<a href="https://j1t3sh.github.io/">
+<a href="https://j1t3sh.github.io">
     <img align="left" alt="j1t3sh.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   </a>
 <a href="https://twitter.com/j1t35h">
