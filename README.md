@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Reverse Engineering
 - 👯 I’m looking to collaborate on Cybersecurity Projects
 - 💬 Ask me about Cyber Security/Hacking
-- 😄 2020 Goals: Contribute more to Open Source projects
 
 ### 📫 Connect with me:
 
